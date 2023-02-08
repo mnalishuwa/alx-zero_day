@@ -1,10 +1,10 @@
 # Foundations 1 
 ## Upcoming Projects/Concepts
 ### 0x00-Shell Basics 8 February 2023
-**1. The Shell**
+###**1. The Shell**
 The shell is an environment or special program that provides an interface
-for a user to use *operating system* services. It sits on top of the *kernel*
-and takes commands from the keyboard, the kernel is the heart of the OS,
+for a user to use *operating system* services. It sits on top of the OS
+and takes commands from the keyboard that it executes, the  OS has a Kernel is the heart of the OS,
 it sits on top of the hardware and effectively controls all tasks of the system. The kernel translates commands it receives into machine language,
 the hardware the executes commands received.
 
